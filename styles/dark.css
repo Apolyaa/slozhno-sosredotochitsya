@@ -20,6 +20,7 @@
   --decoration-color:#ff0070;
   --title-background-color: #000028;
   --section-title-color:#ff0070;
+  --button-border-color: rgba(255, 0, 112, 0.4);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -34,5 +35,6 @@
     --decoration-color:#ff0070;
     --title-background-color: #000028;
     --section-title-color:#ff0070;
+    --button-border-color: rgba(255, 0, 112, 0.4);
   }
 }
